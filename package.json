@@ -1,0 +1,9 @@
+{
+  "name": "aurelle-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix caranayjayme run dev --",
+    "build": "npm --prefix caranayjayme run build",
+    "preview": "npm --prefix caranayjayme run preview --"
+  }
+}
